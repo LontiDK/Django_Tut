@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#test igen
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'btre.settings')
